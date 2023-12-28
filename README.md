@@ -16,7 +16,7 @@ Basic Graphql project
 `http://localhost:4000/graphql`
 
 ## json server resources
-`http://localhost:3000/users` \n
+`http://localhost:3000/users` <br/>
 `http://localhost:3000/companies`
 
 ## Useful queries
