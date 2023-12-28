@@ -4,7 +4,7 @@ Basic Graphql project
 
 
 useful queries
-
+<pre>
 query findCompany{
   apple:company(id:"1"){
     ...companyDetails
@@ -44,3 +44,4 @@ fragment userDetails on User{
   firstName
   age
 }
+</pre>
